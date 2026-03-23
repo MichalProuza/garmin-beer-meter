@@ -35,11 +35,7 @@
       <iq:product id="instinct2s"/>
     </iq:products>
 
-    <iq:permissions>
-      <iq:uses-permission id="Storage"/>
-    </iq:permissions>
-
-    <iq:languages>
+<iq:languages>
       <iq:language>ces</iq:language>
       <iq:language>eng</iq:language>
     </iq:languages>
