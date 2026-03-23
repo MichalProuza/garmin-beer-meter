@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="com.garmin.iq" version="3">
+  <iq:application entry="PivoCounterApp" id="a3d4e5f6-1234-5678-abcd-picounter2024" launchLabel="Pivní čítač" minApiLevel="3.4.0" name="PivoCounterApp" type="widget" version="1.0.0">
+
+    <iq:products>
+      <!-- Fenix 7 série -->
+      <iq:product id="fenix7"/>
+      <iq:product id="fenix7s"/>
+      <iq:product id="fenix7x"/>
+      <iq:product id="fenix7pro"/>
+      <!-- Fenix 6 série -->
+      <iq:product id="fenix6"/>
+      <iq:product id="fenix6s"/>
+      <iq:product id="fenix6x"/>
+      <!-- Fenix 5 série -->
+      <iq:product id="fenix5"/>
+      <iq:product id="fenix5s"/>
+      <iq:product id="fenix5x"/>
+      <!-- Epix série -->
+      <iq:product id="epix2"/>
+      <iq:product id="epix2pro42mm"/>
+      <iq:product id="epix2pro47mm"/>
+      <iq:product id="epix2pro51mm"/>
+      <!-- Fenix 8 série (AMOLED) -->
+      <iq:product id="fenix843mm"/>
+      <iq:product id="fenix847mm"/>
+      <iq:product id="fenix851mm"/>
+      <iq:product id="fenix8pro47mm"/>
+      <iq:product id="fenix8pro51mm"/>
+      <!-- Fenix 8 Solar (MIP) -->
+      <iq:product id="fenix8solar47mm"/>
+      <iq:product id="fenix8solar51mm"/>
+      <!-- Instinct -->
+      <iq:product id="instinct2"/>
+      <iq:product id="instinct2s"/>
+    </iq:products>
+
+    <iq:permissions>
+      <iq:uses-permission id="Storage"/>
+    </iq:permissions>
+
+    <iq:languages>
+      <iq:language>ces</iq:language>
+      <iq:language>eng</iq:language>
+    </iq:languages>
+
+  </iq:application>
+</iq:manifest>
