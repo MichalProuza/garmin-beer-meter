@@ -27,9 +27,6 @@
       <!-- Fenix 8 Solar (MIP) -->
       <iq:product id="fenix8solar47mm"/>
       <iq:product id="fenix8solar51mm"/>
-      <!-- Instinct -->
-      <iq:product id="instinct2"/>
-      <iq:product id="instinct2s"/>
     </iq:products>
 
     <iq:languages>

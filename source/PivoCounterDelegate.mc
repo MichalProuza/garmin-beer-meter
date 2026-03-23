@@ -33,7 +33,7 @@ class PivoCounterDelegate extends WatchUi.BehaviorDelegate {
 
     // SELECT — zatím nic, lze rozšířit
     function onSelect() as Boolean {
-        return true;
+        return false;
     }
 }
 

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\michal.prouza\Documents\GitHub\garmin-beer-meter\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="1" lineNum="88" parent="globals/ResetConfirmDelegate" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="2" lineNum="8" parent="globals/PivoCounterView" pc="268435472" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\bin\\gen\\006-B4536-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435484" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="4" lineNum="41" parent="globals/ResetConfirmView" pc="268435504" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="5" lineNum="5" parent="globals/PivoCounterApp" pc="268435516" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="6" lineNum="5" parent="globals/PivoCounterDelegate" pc="268435528" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="7" lineNum="98" parent="globals/ResetConfirmDelegate" pc="268435540" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="7" lineNum="99" parent="globals/ResetConfirmDelegate" pc="268435542" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="7" lineNum="100" parent="globals/ResetConfirmDelegate" pc="268435556" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="8" lineNum="92" parent="globals/ResetConfirmDelegate" pc="268435558" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="8" lineNum="93" parent="globals/ResetConfirmDelegate" pc="268435560" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="8" lineNum="94" parent="globals/ResetConfirmDelegate" pc="268435572" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="9" lineNum="104" parent="globals/ResetConfirmDelegate" pc="268435582" symbol="onSelect"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="9" lineNum="105" parent="globals/ResetConfirmDelegate" pc="268435584" symbol="onSelect"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="9" lineNum="106" parent="globals/ResetConfirmDelegate" pc="268435596" symbol="onSelect"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="9" lineNum="107" parent="globals/ResetConfirmDelegate" pc="268435610" symbol="onSelect"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="10" lineNum="186" parent="globals/PivoCounterView" pc="268435612" symbol="_getPromileColor"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="10" lineNum="187" parent="globals/PivoCounterView" pc="268435614" symbol="_getPromileColor"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="10" lineNum="187" parent="globals/PivoCounterView" pc="268435625" symbol="_getPromileColor"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="10" lineNum="188" parent="globals/PivoCounterView" pc="268435633" symbol="_getPromileColor"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="10" lineNum="188" parent="globals/PivoCounterView" pc="268435644" symbol="_getPromileColor"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="10" lineNum="189" parent="globals/PivoCounterView" pc="268435653" symbol="_getPromileColor"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="11" lineNum="34" parent="globals/PivoCounterView" pc="268435659" symbol="onShow"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="11" lineNum="35" parent="globals/PivoCounterView" pc="268435661" symbol="onShow"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="11" lineNum="36" parent="globals/PivoCounterView" pc="268435668" symbol="onShow"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="12" lineNum="242" parent="globals/PivoCounterView" pc="268435680" symbol="_saveState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="12" lineNum="243" parent="globals/PivoCounterView" pc="268435682" symbol="_saveState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="12" lineNum="244" parent="globals/PivoCounterView" pc="268435705" symbol="_saveState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="12" lineNum="245" parent="globals/PivoCounterView" pc="268435728" symbol="_saveState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="12" lineNum="246" parent="globals/PivoCounterView" pc="268435751" symbol="_saveState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="13" lineNum="33" parent="globals/PivoCounterView" pc="268435775" symbol="onLayout"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="249" parent="globals/PivoCounterView" pc="268435778" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="250" parent="globals/PivoCounterView" pc="268435781" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="251" parent="globals/PivoCounterView" pc="268435800" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="252" parent="globals/PivoCounterView" pc="268435819" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="253" parent="globals/PivoCounterView" pc="268435838" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="254" parent="globals/PivoCounterView" pc="268435857" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="254" parent="globals/PivoCounterView" pc="268435863" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="255" parent="globals/PivoCounterView" pc="268435875" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="255" parent="globals/PivoCounterView" pc="268435881" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="256" parent="globals/PivoCounterView" pc="268435893" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="256" parent="globals/PivoCounterView" pc="268435899" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="257" parent="globals/PivoCounterView" pc="268435911" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="14" lineNum="257" parent="globals/PivoCounterView" pc="268435917" symbol="_loadState"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="222" parent="globals/PivoCounterView" pc="268435930" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="223" parent="globals/PivoCounterView" pc="268435933" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="223" parent="globals/PivoCounterView" pc="268435942" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="224" parent="globals/PivoCounterView" pc="268435946" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="225" parent="globals/PivoCounterView" pc="268435982" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="226" parent="globals/PivoCounterView" pc="268435996" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="226" parent="globals/PivoCounterView" pc="268436004" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="227" parent="globals/PivoCounterView" pc="268436012" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="227" parent="globals/PivoCounterView" pc="268436020" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="15" lineNum="228" parent="globals/PivoCounterView" pc="268436028" symbol="_checkAutoReset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="16" lineNum="234" parent="globals/PivoCounterView" pc="268436039" symbol="_formatTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="16" lineNum="235" parent="globals/PivoCounterView" pc="268436042" symbol="_formatTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="16" lineNum="235" parent="globals/PivoCounterView" pc="268436048" symbol="_formatTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="16" lineNum="236" parent="globals/PivoCounterView" pc="268436057" symbol="_formatTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="16" lineNum="237" parent="globals/PivoCounterView" pc="268436096" symbol="_formatTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="161" parent="globals/PivoCounterView" pc="268436142" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="162" parent="globals/PivoCounterView" pc="268436145" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="162" parent="globals/PivoCounterView" pc="268436165" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="163" parent="globals/PivoCounterView" pc="268436170" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="164" parent="globals/PivoCounterView" pc="268436195" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="165" parent="globals/PivoCounterView" pc="268436205" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="166" parent="globals/PivoCounterView" pc="268436214" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="167" parent="globals/PivoCounterView" pc="268436250" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="168" parent="globals/PivoCounterView" pc="268436263" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="168" parent="globals/PivoCounterView" pc="268436270" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="17" lineNum="170" parent="globals/PivoCounterView" pc="268436279" symbol="_calculatePromile"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="18" lineNum="194" parent="globals/PivoCounterView" pc="268436282" symbol="addBeer"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="18" lineNum="195" parent="globals/PivoCounterView" pc="268436284" symbol="addBeer"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="18" lineNum="196" parent="globals/PivoCounterView" pc="268436299" symbol="addBeer"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="18" lineNum="197" parent="globals/PivoCounterView" pc="268436306" symbol="addBeer"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="18" lineNum="198" parent="globals/PivoCounterView" pc="268436313" symbol="addBeer"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="19" lineNum="215" parent="globals/PivoCounterView" pc="268436325" symbol="_updateDrinkTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="19" lineNum="216" parent="globals/PivoCounterView" pc="268436328" symbol="_updateDrinkTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="19" lineNum="217" parent="globals/PivoCounterView" pc="268436346" symbol="_updateDrinkTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="19" lineNum="217" parent="globals/PivoCounterView" pc="268436355" symbol="_updateDrinkTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="19" lineNum="218" parent="globals/PivoCounterView" pc="268436367" symbol="_updateDrinkTime"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="20" lineNum="201" parent="globals/PivoCounterView" pc="268436377" symbol="addShot"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="20" lineNum="202" parent="globals/PivoCounterView" pc="268436379" symbol="addShot"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="20" lineNum="203" parent="globals/PivoCounterView" pc="268436394" symbol="addShot"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="20" lineNum="204" parent="globals/PivoCounterView" pc="268436401" symbol="addShot"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="20" lineNum="205" parent="globals/PivoCounterView" pc="268436408" symbol="addShot"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="174" parent="globals/PivoCounterView" pc="268436420" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="175" parent="globals/PivoCounterView" pc="268436423" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="175" parent="globals/PivoCounterView" pc="268436443" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="176" parent="globals/PivoCounterView" pc="268436448" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="177" parent="globals/PivoCounterView" pc="268436473" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="178" parent="globals/PivoCounterView" pc="268436483" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="181" parent="globals/PivoCounterView" pc="268436532" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="182" parent="globals/PivoCounterView" pc="268436545" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="182" parent="globals/PivoCounterView" pc="268436552" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="21" lineNum="183" parent="globals/PivoCounterView" pc="268436557" symbol="_calculateReadySec"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="208" parent="globals/PivoCounterView" pc="268436589" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="209" parent="globals/PivoCounterView" pc="268436591" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="209" parent="globals/PivoCounterView" pc="268436599" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="210" parent="globals/PivoCounterView" pc="268436607" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="210" parent="globals/PivoCounterView" pc="268436615" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="211" parent="globals/PivoCounterView" pc="268436623" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="22" lineNum="212" parent="globals/PivoCounterView" pc="268436630" symbol="reset"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="23" lineNum="27" parent="globals/PivoCounterView" pc="268436642" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="23" lineNum="28" parent="globals/PivoCounterView" pc="268436644" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="23" lineNum="29" parent="globals/PivoCounterView" pc="268436656" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="23" lineNum="30" parent="globals/PivoCounterView" pc="268436663" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="24" lineNum="38" parent="globals/PivoCounterView" pc="268436671" symbol="onHide"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="24" lineNum="38" parent="globals/PivoCounterView" pc="268436673" symbol="onHide"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="51" parent="globals/PivoCounterView" pc="268436681" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="52" parent="globals/PivoCounterView" pc="268436684" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="53" parent="globals/PivoCounterView" pc="268436693" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="54" parent="globals/PivoCounterView" pc="268436702" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="55" parent="globals/PivoCounterView" pc="268436709" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="58" parent="globals/PivoCounterView" pc="268436716" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="59" parent="globals/PivoCounterView" pc="268436728" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="60" parent="globals/PivoCounterView" pc="268436736" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="61" parent="globals/PivoCounterView" pc="268436752" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="62" parent="globals/PivoCounterView" pc="268436764" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="67" parent="globals/PivoCounterView" pc="268436783" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="68" parent="globals/PivoCounterView" pc="268436799" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="69" parent="globals/PivoCounterView" pc="268436815" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="71" parent="globals/PivoCounterView" pc="268436831" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="72" parent="globals/PivoCounterView" pc="268436839" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="73" parent="globals/PivoCounterView" pc="268436851" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="76" parent="globals/PivoCounterView" pc="268436859" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="77" parent="globals/PivoCounterView" pc="268436876" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="80" parent="globals/PivoCounterView" pc="268436911" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="81" parent="globals/PivoCounterView" pc="268436927" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="82" parent="globals/PivoCounterView" pc="268436939" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="86" parent="globals/PivoCounterView" pc="268436984" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="87" parent="globals/PivoCounterView" pc="268437001" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="88" parent="globals/PivoCounterView" pc="268437036" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="89" parent="globals/PivoCounterView" pc="268437053" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="92" parent="globals/PivoCounterView" pc="268437088" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="93" parent="globals/PivoCounterView" pc="268437105" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="94" parent="globals/PivoCounterView" pc="268437146" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="97" parent="globals/PivoCounterView" pc="268437187" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="98" parent="globals/PivoCounterView" pc="268437203" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="99" parent="globals/PivoCounterView" pc="268437237" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="102" parent="globals/PivoCounterView" pc="268437271" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="103" parent="globals/PivoCounterView" pc="268437287" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="106" parent="globals/PivoCounterView" pc="268437329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="107" parent="globals/PivoCounterView" pc="268437345" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="110" parent="globals/PivoCounterView" pc="268437390" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="111" parent="globals/PivoCounterView" pc="268437404" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="112" parent="globals/PivoCounterView" pc="268437454" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="113" parent="globals/PivoCounterView" pc="268437470" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="116" parent="globals/PivoCounterView" pc="268437504" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="117" parent="globals/PivoCounterView" pc="268437507" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="118" parent="globals/PivoCounterView" pc="268437518" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="119" parent="globals/PivoCounterView" pc="268437535" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="120" parent="globals/PivoCounterView" pc="268437570" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="121" parent="globals/PivoCounterView" pc="268437587" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="122" parent="globals/PivoCounterView" pc="268437632" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="123" parent="globals/PivoCounterView" pc="268437651" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="124" parent="globals/PivoCounterView" pc="268437658" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="125" parent="globals/PivoCounterView" pc="268437665" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="126" parent="globals/PivoCounterView" pc="268437671" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="127" parent="globals/PivoCounterView" pc="268437689" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="129" parent="globals/PivoCounterView" pc="268437709" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="130" parent="globals/PivoCounterView" pc="268437716" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="132" parent="globals/PivoCounterView" pc="268437732" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="133" parent="globals/PivoCounterView" pc="268437764" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="135" parent="globals/PivoCounterView" pc="268437783" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="136" parent="globals/PivoCounterView" pc="268437799" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="137" parent="globals/PivoCounterView" pc="268437833" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="141" parent="globals/PivoCounterView" pc="268437849" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="142" parent="globals/PivoCounterView" pc="268437865" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="145" parent="globals/PivoCounterView" pc="268437886" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="146" parent="globals/PivoCounterView" pc="268437905" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="148" parent="globals/PivoCounterView" pc="268437924" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="149" parent="globals/PivoCounterView" pc="268437933" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="150" parent="globals/PivoCounterView" pc="268437949" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="151" parent="globals/PivoCounterView" pc="268437985" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="152" parent="globals/PivoCounterView" pc="268438001" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="154" parent="globals/PivoCounterView" pc="268438040" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterView.mc" id="25" lineNum="155" parent="globals/PivoCounterView" pc="268438056" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="26" lineNum="44" parent="globals/ResetConfirmView" pc="268438079" symbol="onLayout"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="27" lineNum="43" parent="globals/ResetConfirmView" pc="268438082" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="27" lineNum="43" parent="globals/ResetConfirmView" pc="268438084" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="46" parent="globals/ResetConfirmView" pc="268438097" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="47" parent="globals/ResetConfirmView" pc="268438100" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="48" parent="globals/ResetConfirmView" pc="268438109" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="49" parent="globals/ResetConfirmView" pc="268438118" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="50" parent="globals/ResetConfirmView" pc="268438125" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="53" parent="globals/ResetConfirmView" pc="268438132" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="54" parent="globals/ResetConfirmView" pc="268438144" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="55" parent="globals/ResetConfirmView" pc="268438152" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="56" parent="globals/ResetConfirmView" pc="268438168" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="57" parent="globals/ResetConfirmView" pc="268438180" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="60" parent="globals/ResetConfirmView" pc="268438199" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="61" parent="globals/ResetConfirmView" pc="268438216" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="62" parent="globals/ResetConfirmView" pc="268438251" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="65" parent="globals/ResetConfirmView" pc="268438285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="66" parent="globals/ResetConfirmView" pc="268438301" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="67" parent="globals/ResetConfirmView" pc="268438313" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="70" parent="globals/ResetConfirmView" pc="268438379" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="71" parent="globals/ResetConfirmView" pc="268438396" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="72" parent="globals/ResetConfirmView" pc="268438443" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="73" parent="globals/ResetConfirmView" pc="268438459" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="76" parent="globals/ResetConfirmView" pc="268438505" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="77" parent="globals/ResetConfirmView" pc="268438521" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="80" parent="globals/ResetConfirmView" pc="268438563" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="81" parent="globals/ResetConfirmView" pc="268438579" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="82" parent="globals/ResetConfirmView" pc="268438625" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="28" lineNum="83" parent="globals/ResetConfirmView" pc="268438641" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="29" lineNum="11" parent="globals/PivoCounterApp" pc="268438687" symbol="onStart"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="30" lineNum="17" parent="globals/PivoCounterApp" pc="268438690" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="30" lineNum="18" parent="globals/PivoCounterApp" pc="268438693" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="30" lineNum="19" parent="globals/PivoCounterApp" pc="268438713" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="30" lineNum="20" parent="globals/PivoCounterApp" pc="268438735" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="31" lineNum="7" parent="globals/PivoCounterApp" pc="268438750" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="31" lineNum="8" parent="globals/PivoCounterApp" pc="268438752" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterApp.mc" id="32" lineNum="14" parent="globals/PivoCounterApp" pc="268438765" symbol="onStop"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="33" lineNum="27" parent="globals/PivoCounterDelegate" pc="268438768" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="33" lineNum="28" parent="globals/PivoCounterDelegate" pc="268438771" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="33" lineNum="29" parent="globals/PivoCounterDelegate" pc="268438791" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="33" lineNum="30" parent="globals/PivoCounterDelegate" pc="268438816" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="33" lineNum="31" parent="globals/PivoCounterDelegate" pc="268438834" symbol="onBack"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="34" lineNum="15" parent="globals/PivoCounterDelegate" pc="268438836" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="34" lineNum="16" parent="globals/PivoCounterDelegate" pc="268438838" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="34" lineNum="17" parent="globals/PivoCounterDelegate" pc="268438850" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="35" lineNum="9" parent="globals/PivoCounterDelegate" pc="268438852" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="35" lineNum="10" parent="globals/PivoCounterDelegate" pc="268438854" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="35" lineNum="11" parent="globals/PivoCounterDelegate" pc="268438866" symbol="initialize"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="36" lineNum="21" parent="globals/PivoCounterDelegate" pc="268438876" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="36" lineNum="22" parent="globals/PivoCounterDelegate" pc="268438878" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="36" lineNum="23" parent="globals/PivoCounterDelegate" pc="268438890" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="37" lineNum="35" parent="globals/PivoCounterDelegate" pc="268438892" symbol="onSelect"/>
+        <entry filename="C:\\Users\\michal.prouza\\Documents\\GitHub\\garmin-beer-meter\\source\\PivoCounterDelegate.mc" id="37" lineNum="36" parent="globals/PivoCounterDelegate" pc="268438894" symbol="onSelect"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="5" object="true" symbol="PivoCounterApp"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="9" object="true" symbol="ResetConfirmView"/>
+        <entry field="true" id="14" symbol="_firstDrinkTime"/>
+        <entry id="11" method="true" symbol="_calculatePromile"/>
+        <entry id="22" method="true" symbol="_updateDrinkTime"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="12" method="true" symbol="_calculateReadySec"/>
+        <entry id="15" method="true" symbol="_formatTime"/>
+        <entry id="8392382" method="true" symbol="reset"/>
+        <entry id="4" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="18" method="true" symbol="_loadState"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8" object="true" symbol="ResetConfirmDelegate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="19" symbol="_panaky"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="13" method="true" symbol="_checkAutoReset"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="7" object="true" symbol="PivoCounterView"/>
+        <entry field="true" id="17" symbol="_lastDrinkTime"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="16" method="true" symbol="_getPromileColor"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="10" symbol="_view"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="20" symbol="_piva"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="21" method="true" symbol="_saveState"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="23" method="true" symbol="addBeer"/>
+        <entry id="24" method="true" symbol="addShot"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="6" object="true" symbol="PivoCounterDelegate"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435581" name="view" stackId="1" startPc="268435558"/>
+        <entry arg="true" endPc="268435658" name="promile" stackId="1" startPc="268435612"/>
+        <entry endPc="268435928" name="p" stackId="1" startPc="268435781"/>
+        <entry endPc="268435928" name="s" stackId="2" startPc="268435781"/>
+        <entry endPc="268435928" name="f" stackId="3" startPc="268435781"/>
+        <entry endPc="268435928" name="l" stackId="4" startPc="268435781"/>
+        <entry endPc="268436037" name="hoursSinceLast" stackId="1" startPc="268435933"/>
+        <entry arg="true" endPc="268436141" name="timestamp" stackId="1" startPc="268436039"/>
+        <entry endPc="268436141" name="info" stackId="2" startPc="268436042"/>
+        <entry endPc="268436281" name="totalAlcohol" stackId="1" startPc="268436145"/>
+        <entry endPc="268436281" name="bac" stackId="2" startPc="268436145"/>
+        <entry endPc="268436275" name="hoursElapsed" stackId="3" startPc="268436214"/>
+        <entry endPc="268436375" name="now" stackId="1" startPc="268436328"/>
+        <entry endPc="268436588" name="totalAlcohol" stackId="1" startPc="268436423"/>
+        <entry endPc="268436588" name="totalBac" stackId="2" startPc="268436423"/>
+        <entry endPc="268436588" name="elapsedH" stackId="3" startPc="268436423"/>
+        <entry endPc="268436588" name="hoursLeft" stackId="4" startPc="268436423"/>
+        <entry arg="true" endPc="268438078" name="dc" stackId="1" startPc="268436681"/>
+        <entry endPc="268438077" name="w" stackId="2" startPc="268436684"/>
+        <entry endPc="268438077" name="h" stackId="3" startPc="268436684"/>
+        <entry endPc="268438077" name="cx" stackId="4" startPc="268436684"/>
+        <entry endPc="268438077" name="cy" stackId="5" startPc="268436684"/>
+        <entry endPc="268438077" name="marginX" stackId="6" startPc="268436684"/>
+        <entry endPc="268438077" name="lCx" stackId="7" startPc="268436684"/>
+        <entry endPc="268438077" name="rCx" stackId="8" startPc="268436684"/>
+        <entry endPc="268438077" name="promile" stackId="9" startPc="268436684"/>
+        <entry endPc="268438077" name="pColor" stackId="10" startPc="268436684"/>
+        <entry endPc="268438077" name="readySec" stackId="11" startPc="268436684"/>
+        <entry endPc="268438077" name="delimY" stackId="12" startPc="268436684"/>
+        <entry endPc="268437779" name="readyStr" stackId="13" startPc="268437658"/>
+        <entry endPc="268438077" name="t1y" stackId="14" startPc="268436684"/>
+        <entry endPc="268438077" name="t2y" stackId="15" startPc="268436684"/>
+        <entry arg="true" endPc="268438686" name="dc" stackId="1" startPc="268438097"/>
+        <entry endPc="268438685" name="w" stackId="2" startPc="268438100"/>
+        <entry endPc="268438685" name="h" stackId="3" startPc="268438100"/>
+        <entry endPc="268438685" name="cx" stackId="4" startPc="268438100"/>
+        <entry endPc="268438685" name="cy" stackId="5" startPc="268438100"/>
+        <entry endPc="268438749" name="view" stackId="1" startPc="268438693"/>
+        <entry endPc="268438749" name="delegate" stackId="2" startPc="268438693"/>
+        <entry endPc="268438835" name="confirmView" stackId="1" startPc="268438771"/>
+        <entry endPc="268438835" name="confirmDelegate" stackId="2" startPc="268438771"/>
+        <entry arg="true" endPc="268438875" name="view" stackId="1" startPc="268438852"/>
+    </localVars>
+    <deviceInfo deviceVersion="64e9a617e9472a32c43687e18cd12264b67a820e" partNumber="006-B4536-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PivoCounterApp"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/ResetConfirmDelegate" offset="134" parentId="globals" symbolId="ResetConfirmDelegate" type="class"/>
+        <dataEntry label="globals/PivoCounterView" offset="205" parentId="globals" symbolId="PivoCounterView" type="class"/>
+        <dataEntry label="globals/Rez" offset="420" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/ResetConfirmView" offset="464" parentId="globals" symbolId="ResetConfirmView" type="class"/>
+        <dataEntry label="globals/PivoCounterApp" offset="526" parentId="globals" symbolId="PivoCounterApp" type="class"/>
+        <dataEntry label="globals/PivoCounterDelegate" offset="597" parentId="globals" symbolId="PivoCounterDelegate" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="686" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="721" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="ResetConfirmDelegate" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="PivoCounterView" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435503" name="&lt;init&gt;" parent="Rez" startPc="268435484">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435515" name="&lt;init&gt;" parent="ResetConfirmView" startPc="268435504">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435527" name="&lt;init&gt;" parent="PivoCounterApp" startPc="268435516">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435539" name="&lt;init&gt;" parent="PivoCounterDelegate" startPc="268435528">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435557" name="onBack" parent="ResetConfirmDelegate" startPc="268435540">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435581" name="initialize" parent="ResetConfirmDelegate" startPc="268435558">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435611" name="onSelect" parent="ResetConfirmDelegate" startPc="268435582">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435658" name="_getPromileColor" parent="PivoCounterView" startPc="268435612">
+            <param id="promile"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435679" name="onShow" parent="PivoCounterView" startPc="268435659">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435774" name="_saveState" parent="PivoCounterView" startPc="268435680">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435777" name="onLayout" parent="PivoCounterView" startPc="268435775">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435929" name="_loadState" parent="PivoCounterView" startPc="268435778">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436038" name="_checkAutoReset" parent="PivoCounterView" startPc="268435930">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436141" name="_formatTime" parent="PivoCounterView" startPc="268436039">
+            <param id="timestamp"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436281" name="_calculatePromile" parent="PivoCounterView" startPc="268436142">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436324" name="addBeer" parent="PivoCounterView" startPc="268436282">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436376" name="_updateDrinkTime" parent="PivoCounterView" startPc="268436325">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436419" name="addShot" parent="PivoCounterView" startPc="268436377">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436588" name="_calculateReadySec" parent="PivoCounterView" startPc="268436420">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436641" name="reset" parent="PivoCounterView" startPc="268436589">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436670" name="initialize" parent="PivoCounterView" startPc="268436642">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436680" name="onHide" parent="PivoCounterView" startPc="268436671">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438078" name="onUpdate" parent="PivoCounterView" startPc="268436681">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438081" name="onLayout" parent="ResetConfirmView" startPc="268438079">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438096" name="initialize" parent="ResetConfirmView" startPc="268438082">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438686" name="onUpdate" parent="ResetConfirmView" startPc="268438097">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438689" name="onStart" parent="PivoCounterApp" startPc="268438687">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438749" name="getInitialView" parent="PivoCounterApp" startPc="268438690">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438764" name="initialize" parent="PivoCounterApp" startPc="268438750">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438767" name="onStop" parent="PivoCounterApp" startPc="268438765">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438835" name="onBack" parent="PivoCounterDelegate" startPc="268438768">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438851" name="onPreviousPage" parent="PivoCounterDelegate" startPc="268438836">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438875" name="initialize" parent="PivoCounterDelegate" startPc="268438852">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438891" name="onNextPage" parent="PivoCounterDelegate" startPc="268438876">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438895" name="onSelect" parent="PivoCounterDelegate" startPc="268438892">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
