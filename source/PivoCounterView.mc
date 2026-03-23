@@ -106,33 +106,32 @@ class PivoCounterView extends WatchUi.View {
         // ── Promile ───────────────────────────────────────────────────────
         dc.setColor(pColor, Graphics.COLOR_TRANSPARENT);
         dc.drawText(cx, (h * 0.57).toNumber(), Graphics.FONT_NUMBER_MILD, promile.format("%.2f") + "‰", Graphics.TEXT_JUSTIFY_CENTER);
-
         dc.setColor(0x444444, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(cx, (h * 0.74).toNumber(), Graphics.FONT_XTINY, "ODHAD PROMILE", Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(cx, (h * 0.71).toNumber(), Graphics.FONT_XTINY, "odhad promile", Graphics.TEXT_JUSTIFY_CENTER);
 
         // ── Řídit od / varování ───────────────────────────────────────────
         var delimY = 0;
         if (promile >= 0.8) {
             dc.setColor(0xFF3333, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(cx, (h * 0.79).toNumber(), Graphics.FONT_TINY, "⚠ NEŘIĎ!", Graphics.TEXT_JUSTIFY_CENTER);
+            dc.drawText(cx, (h * 0.75).toNumber(), Graphics.FONT_TINY, "NE\u0158I\u010E!", Graphics.TEXT_JUSTIFY_CENTER);
             dc.setColor(0x888888, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(cx, (h * 0.86).toNumber(), Graphics.FONT_XTINY, "řídit od " + _formatTime(readySec), Graphics.TEXT_JUSTIFY_CENTER);
-            delimY = (h * 0.90).toNumber();
+            dc.drawText(cx, (h * 0.82).toNumber(), Graphics.FONT_XTINY, "\u0159\u00EDdit od " + _formatTime(readySec), Graphics.TEXT_JUSTIFY_CENTER);
+            delimY = (h * 0.87).toNumber();
         } else if (promile > 0.0) {
             var readyStr = "";
             if (readySec != null) {
-                readyStr = "řídit od " + _formatTime(readySec);
+                readyStr = "\u0159\u00EDdit od " + _formatTime(readySec);
                 dc.setColor(0xFFAA00, Graphics.COLOR_TRANSPARENT);
             } else {
-                readyStr = "teď v pohodě";
+                readyStr = "te\u010F v pohod\u011B";
                 dc.setColor(0x00CC55, Graphics.COLOR_TRANSPARENT);
             }
-            dc.drawText(cx, (h * 0.81).toNumber(), Graphics.FONT_TINY, readyStr, Graphics.TEXT_JUSTIFY_CENTER);
-            delimY = (h * 0.87).toNumber();
+            dc.drawText(cx, (h * 0.76).toNumber(), Graphics.FONT_TINY, readyStr, Graphics.TEXT_JUSTIFY_CENTER);
+            delimY = (h * 0.83).toNumber();
         } else {
             dc.setColor(0x333333, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(cx, (h * 0.81).toNumber(), Graphics.FONT_XTINY, "střízlivý", Graphics.TEXT_JUSTIFY_CENTER);
-            delimY = (h * 0.87).toNumber();
+            dc.drawText(cx, (h * 0.76).toNumber(), Graphics.FONT_XTINY, "st\u0159\u00ED\u017Eliv\u00FD", Graphics.TEXT_JUSTIFY_CENTER);
+            delimY = (h * 0.83).toNumber();
         }
 
         // ── Dělič 3 ──────────────────────────────────────────────────────
@@ -140,22 +139,17 @@ class PivoCounterView extends WatchUi.View {
         dc.drawLine(marginX, delimY, w - marginX, delimY);
 
         // ── Časy ──────────────────────────────────────────────────────────
-        var t1y = delimY + (h * 0.06).toNumber();
-        var t2y = delimY + (h * 0.12).toNumber();
+        var t1y = delimY + (h * 0.05).toNumber();
+        var t2y = delimY + (h * 0.10).toNumber();
 
         if (_firstDrinkTime != null) {
-            dc.setColor(0x444444, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(marginX, t1y, Graphics.FONT_XTINY, "start pití:", Graphics.TEXT_JUSTIFY_LEFT);
-            dc.setColor(0xAAAAAA, Graphics.COLOR_TRANSPARENT);
-            dc.drawText((w * 0.50).toNumber(), t1y, Graphics.FONT_XTINY, _formatTime(_firstDrinkTime), Graphics.TEXT_JUSTIFY_LEFT);
-
-            dc.setColor(0x444444, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(marginX, t2y, Graphics.FONT_XTINY, "poslední drink:", Graphics.TEXT_JUSTIFY_LEFT);
-            dc.setColor(0xAAAAAA, Graphics.COLOR_TRANSPARENT);
-            dc.drawText((w * 0.62).toNumber(), t2y, Graphics.FONT_XTINY, _formatTime(_lastDrinkTime), Graphics.TEXT_JUSTIFY_LEFT);
+            dc.setColor(0x555555, Graphics.COLOR_TRANSPARENT);
+            dc.drawText(cx, t1y, Graphics.FONT_XTINY, "start: " + _formatTime(_firstDrinkTime), Graphics.TEXT_JUSTIFY_CENTER);
+            dc.setColor(0x777777, Graphics.COLOR_TRANSPARENT);
+            dc.drawText(cx, t2y, Graphics.FONT_XTINY, "posl.: " + _formatTime(_lastDrinkTime), Graphics.TEXT_JUSTIFY_CENTER);
         } else {
             dc.setColor(0x333333, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(cx, t1y, Graphics.FONT_XTINY, "zatím střízlivý", Graphics.TEXT_JUSTIFY_CENTER);
+            dc.drawText(cx, t1y, Graphics.FONT_XTINY, "zat\u00EDm st\u0159\u00ED\u017Eliv\u00FD", Graphics.TEXT_JUSTIFY_CENTER);
         }
     }
 
