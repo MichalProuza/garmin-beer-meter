@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<iq:manifest xmlns:iq="com.garmin.iq" version="3">
-  <iq:application entry="PivoCounterApp" id="a3d4e5f6-1234-5678-abcd-picounter2024" launchLabel="Pivní čítač" minApiLevel="3.4.0" name="PivoCounterApp" type="widget" version="1.0.0">
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="1">
+  <iq:application entry="PivoCounterApp" id="a3d4e5f6-1234-5678-abcd-picounter2024" launchLabel="Pivní čítač" minSdkVersion="3.4.0" name="PivoCounterApp" type="widget" version="1.0.0">
 
     <iq:products>
       <!-- Fenix 7 série -->
