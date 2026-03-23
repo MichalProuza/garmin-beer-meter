@@ -45,7 +45,7 @@ class ResetConfirmDelegate extends WatchUi.ConfirmationDelegate {
         _view = view;
     }
 
-    function onResponse(response as WatchUi.Confirmation) as Boolean {
+    function onResponse(response) as Boolean {
         if (response == WatchUi.CONFIRM_YES) {
             _view.reset();
         }
