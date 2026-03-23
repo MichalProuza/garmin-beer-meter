@@ -62,4 +62,4 @@ BAC_aktuální = BAC - (0.15 × hodiny_od_prvního_drinku)
 závisí na mnoha faktorech. Nikdy nesedej za volant, pokud jsi pil.
 
 ## Podporovaná zařízení
-Fenix 5/6/7, Epix 2, Instinct 2 (viz manifest.xml pro úplný seznam)
+Fenix 5/6/7/8 (včetně AMOLED variant), Epix 2, Instinct 2 (viz manifest.xml pro úplný seznam)
