@@ -111,7 +111,7 @@ class PivoCounterView extends WatchUi.View {
         dc.drawText(cx, (h * 0.74).toNumber(), Graphics.FONT_XTINY, "ODHAD PROMILE", Graphics.TEXT_JUSTIFY_CENTER);
 
         // ── Řídit od / varování ───────────────────────────────────────────
-        var delimY as Number;
+        var delimY = 0;
         if (promile >= 0.8) {
             dc.setColor(0xFF3333, Graphics.COLOR_TRANSPARENT);
             dc.drawText(cx, (h * 0.79).toNumber(), Graphics.FONT_TINY, "⚠ NEŘIĎ!", Graphics.TEXT_JUSTIFY_CENTER);
@@ -119,7 +119,7 @@ class PivoCounterView extends WatchUi.View {
             dc.drawText(cx, (h * 0.86).toNumber(), Graphics.FONT_XTINY, "řídit od " + _formatTime(readySec), Graphics.TEXT_JUSTIFY_CENTER);
             delimY = (h * 0.90).toNumber();
         } else if (promile > 0.0) {
-            var readyStr as String;
+            var readyStr = "";
             if (readySec != null) {
                 readyStr = "řídit od " + _formatTime(readySec);
                 dc.setColor(0xFFAA00, Graphics.COLOR_TRANSPARENT);
